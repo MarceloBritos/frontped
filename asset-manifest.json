@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MarceloBritos/frontped/static/css/main.5f361e03.chunk.css",
+    "main.js": "/MarceloBritos/frontped/static/js/main.62dca55a.chunk.js",
+    "main.js.map": "/MarceloBritos/frontped/static/js/main.62dca55a.chunk.js.map",
+    "runtime-main.js": "/MarceloBritos/frontped/static/js/runtime-main.c21f3025.js",
+    "runtime-main.js.map": "/MarceloBritos/frontped/static/js/runtime-main.c21f3025.js.map",
+    "static/js/2.69e2be96.chunk.js": "/MarceloBritos/frontped/static/js/2.69e2be96.chunk.js",
+    "static/js/2.69e2be96.chunk.js.map": "/MarceloBritos/frontped/static/js/2.69e2be96.chunk.js.map",
+    "index.html": "/MarceloBritos/frontped/index.html",
+    "precache-manifest.3b09e4706214dac433a6ec6895dbac55.js": "/MarceloBritos/frontped/precache-manifest.3b09e4706214dac433a6ec6895dbac55.js",
+    "service-worker.js": "/MarceloBritos/frontped/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/MarceloBritos/frontped/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.69e2be96.chunk.js.LICENSE.txt": "/MarceloBritos/frontped/static/js/2.69e2be96.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MarceloBritos/frontped/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c21f3025.js",
+    "static/js/2.69e2be96.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.62dca55a.chunk.js"
+  ]
+}
